@@ -214,6 +214,11 @@ section {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
 }
 }
+@media only screen and (max-width: 1188px) {
+  .section__pic-container1{
+    display: flex;
+    margin: 0 auto;
+  }
 .section__text {
   align-self: center;
   text-align: center;
